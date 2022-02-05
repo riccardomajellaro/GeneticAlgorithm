@@ -8,3 +8,4 @@ This is an extract of the first assignment of the Evolutionary Algorithm course 
   `pip install numpy`
   <li>ioh - `pip install ioh`</li>
 </ul>
+`pip install numpy`
