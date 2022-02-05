@@ -5,5 +5,6 @@ This is an extract of the first assignment of the Evolutionary Algorithm course 
 ## Requirements
 <ul>
   <li>numpy - `pip install numpy`</li>
+  `pip install numpy`
   <li>ioh - `pip install ioh`</li>
 </ul>
